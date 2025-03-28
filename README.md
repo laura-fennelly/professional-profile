@@ -84,16 +84,14 @@ Cork, Ireland | May 2020 - Jan 2022
 
 ### Fota Island  Hospitality Department | Front Of House                    
 Cork, Ireland |  September 2019 - October 2020
-* Part-time Waitress 
+
 
 ### Apple  Business Analytics Department | Business Analyst Intern            
 Cork, Ireland | January 2019 - September 2019
-* Troubleshooted data issues and bugs within tools and reports.
-* Created data visualisation dashboard on Tableau for automated reporting.
+
 
 ### Apple  AppleCare Support Department | Technical Support Advisor    
 Cork, Ireland |  June 2018 – January 2019
-* Troubleshooting both technical & non-technical issues from home.
 
 
 ## EXPERIENCE
