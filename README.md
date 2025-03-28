@@ -16,7 +16,7 @@ _____________________
 ## EXPERIENCE
 __________________ 
 
-#### DocuSign  |  End User Automation Engineer 
+### DocuSign  |  End User Automation Engineer 
 Dublin, Ireland | Feb 2022 - Present
 
 #### <ins>Data Engineering & Analytics</ins>
@@ -46,14 +46,15 @@ Dublin, Ireland | Feb 2022 - Present
 * Additional NLP modelling includes: custom SpaCy Named Entity Recognition (NER), Latent Dirichlet Allocation (LDA) for topic modeling, and RegEx for PII redaction.
 * Leveraged Python and key ML libraries, including NLTK, SciPy, Keras, PyTorch, TensorFlow, XGBoost, NumPy, Pandas, and Scikit-learn, to build scalable and efficient machine learning solutions.
 
-### Apple Business Analytics Department | Business Intelligence Analyst
-##### Cork, Ireland | May 2020 - Jan 2022
+### Apple | Business Intelligence Analyst
+Cork, Ireland | May 2020 - Jan 2022
 
 ##### <ins>EMEIA Business Intelligence Analyst</ins>
 
 * Develop dynamic, user friendly and interchangeable dashboards for multi-disciplinary teams to automate manual tasks and reporting, saving the business over 30 hours of manual work weekly.
 * Concurrently lead and developed on multiple analytic projects across different functions from Logistics, Reseller Operations, Product Readiness, Supply Planning, and Manufacturing. 
 * EMEIA representative for Quarterly Balance Scorecard, liaised with cross functional teams to supply performance commentary of KPI metrics.
+
 ##### <ins>Business Analytics New Product Introduction lead</ins>
 * Requirement gathering cross functionally across operations. Recognise data needs of each function and prioritising support for monthly product launches.
 * Establish and analysed plans to achieve milestones pre, during and post launch.
@@ -61,6 +62,7 @@ Dublin, Ireland | Feb 2022 - Present
 * Investigate areas of concern, critical issues, and identify process gaps. 
 * Solve common challenges to optimise resources.
 * Provide feedback analyse to ensure continuous improvement. 
+
 ##### <ins>Project Manager of Business Analytics Retail Operations project track</ins>
 * Provide weekly updates and host biweekly reviews for retail operations.
 * Connect and collaborate with developers and business on projects to ensure deadlines are met.
