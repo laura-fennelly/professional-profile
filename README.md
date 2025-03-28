@@ -19,17 +19,16 @@ _____________________
 __________________ 
 
 ### DocuSign Digital Technology Services Department | End User Automation Engineer                    
-##### Dublin, Ireland | Feb 2022 - Present
+#### Dublin, Ireland | Feb 2022 - Present
 
-##### <ins>Data Engineering & Analytics</ins>
-
-##### * Designed and developed ETL data pipelines to integrate and process data from multiple vendor APIs.
-##### * Performed data wrangling: cleansing, transformation, and application of business logic to enhance data quality.
-##### * Conducted data validation, schema design, and integrity checks to ensure accuracy and consistency.
-##### * Designed SQL views to structure and optimise datasets for reporting.
-##### * Developed Tableau dashboards, providing leadership with actionable insights.
-##### * Led data-driven performance evaluations to optimise business processes and outcomes.
-##### * Presented analytical findings and strategic recommendations to leadership on user engagement, operational performance, conversational intelligence, and automation opportunities.
+#### <ins>Data Engineering & Analytics</ins>
+* Designed and developed ETL data pipelines to integrate and process data from multiple vendor APIs.
+* Performed data wrangling: cleansing, transformation, and application of business logic to enhance data quality.
+* Conducted data validation, schema design, and integrity checks to ensure accuracy and consistency.
+* Designed SQL views to structure and optimise datasets for reporting.
+* Developed Tableau dashboards, providing leadership with actionable insights.
+* Led data-driven performance evaluations to optimise business processes and outcomes.
+* Presented analytical findings and strategic recommendations to leadership on user engagement, operational performance, conversational intelligence, and automation opportunities.
  
 ##### <ins>Business Intelligence & Strategic Insights</ins>
 
