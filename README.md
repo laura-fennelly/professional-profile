@@ -85,24 +85,24 @@ Cork, Ireland |  June 2018 – January 2019
 
 ## PUBLICATION
 __________________ 
-A Review of Multi-Modal Large Language and Vision Models
-https://arxiv.org/abs/2404.01322
+### A Review of Multi-Modal Large Language and Vision Models
+[Available Here](https://pages.github.com/](https://arxiv.org/abs/2404.01322) 
 
 
 ## PROJECTS
 __________________ 
+### Analysis of Primary Biological Aerosol Particles (PBAP) to Assess COVID-19 Outbreak Risk in Meat Processing Plants: A Study on Occupancy and Environmental Factors
+_A Business Analytics professional with experience working within cross functional teams across supply chain operations for a large multinational. Diverse skillset from working in multiple roles such as BA New Product I ._
+[Available Here](https://pages.github.com/](https://arxiv.org/abs/2404.01322) 
 
-
-
+### Analysis of Primary Biological Aerosol Particles (PBAP) to Assess COVID-19 Outbreak Risk in Meat Processing Plants: A Study on Occupancy and Environmental Factors
+_A Business Analytics professional with experience working within cross functional teams across supply chain operations for a large multinational. Diverse skillset from working in multiple roles such as BA New Product I ._
+[Available Here](https://pages.github.com/](https://arxiv.org/abs/2404.01322) 
 
 ## ACHIEVEMENTS
 ____________________
 
-Apple 2021:
-Above and Beyond Award
-
+### Apple 2021  |  Above and Beyond Award
 Award is for a select few chosen across Apples operations department for going above and beyond in work and expectations
-
-Baby masters
 
 
