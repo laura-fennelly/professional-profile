@@ -18,9 +18,9 @@ _____________________
 ## EXPERIENCE
 __________________ 
 
-### DocuSign  |  Digital Technology Services Department 
+#### DocuSign  |  Digital Technology Services Department 
 Role: _End User Automation Engineer_             
-#### Dublin, Ireland | Feb 2022 - Present
+##### Dublin, Ireland | Feb 2022 - Present
 
 #### <ins>Data Engineering & Analytics</ins>
 * Designed and developed ETL data pipelines to integrate and process data from multiple vendor APIs.
