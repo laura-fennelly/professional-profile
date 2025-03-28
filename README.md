@@ -22,7 +22,6 @@ __________________
 Dublin, Ireland | Feb 2022 - Present
 
 1. **Data Engineering & Analytics**
-
 * Designed and developed ETL data pipelines to integrate and process data from multiple vendor APIs.
 * Performed data wrangling: cleansing, transformation, and application of business logic to enhance data quality.
 * Conducted data validation, schema design, and integrity checks to ensure accuracy and consistency.
@@ -31,7 +30,7 @@ Dublin, Ireland | Feb 2022 - Present
 * Led data-driven performance evaluations to optimise business processes and outcomes.
 * Presented analytical findings and strategic recommendations to leadership on user engagement, operational performance, conversational intelligence, and automation opportunities.
 
-2. **Business Intelligence & Strategic Insights***
+2. **Business Intelligence & Strategic Insights**
 
 * Partnered with IT, business teams, and executives to define data requirements and translate business objectives into scalable technical solutions.
 * Collaborated with cross-functional teams to define key performance indicators (KPIs) and deliver data-driven decision support.
