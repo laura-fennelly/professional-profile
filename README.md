@@ -76,9 +76,6 @@ Cork, Ireland | May 2020 - Jan 2022
 * Evaluated how issues affected the business, regions or departments
 * Resolved and prevented issues from reoccurring.
 
-### Fota Island  Hospitality Department | Front Of House                    
-Cork, Ireland |  September 2019 - October 2020
-
 ### Apple  Business Analytics Department | Business Analyst Intern            
 Cork, Ireland | January 2019 - September 2019
 
