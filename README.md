@@ -16,7 +16,7 @@ Munster Technology University   |   2016 - 2020   |   First Class Honours    �
 ## EXPERIENCE
 __________________ 
 
-#### DocuSign  |  End User Automation Engineer 
+### DocuSign  |  End User Automation Engineer 
 Dublin, Ireland | Feb 2022 - Present
 
 ##### <ins>Data Engineering & Analytics</ins>
@@ -46,7 +46,7 @@ Dublin, Ireland | Feb 2022 - Present
 * Additional NLP modelling includes: custom SpaCy Named Entity Recognition (NER), Latent Dirichlet Allocation (LDA) for topic modeling, and RegEx for PII redaction.
 * Leveraged Python and key ML libraries, including NLTK, SciPy, Keras, PyTorch, TensorFlow, XGBoost, NumPy, Pandas, and Scikit-learn, to build scalable and efficient machine learning solutions.
 
-#### Apple | Business Intelligence Analyst
+### Apple | Business Intelligence Analyst
 Cork, Ireland | May 2020 - Jan 2022
 
 ##### <ins>EMEIA Business Intelligence Analyst</ins>
@@ -76,13 +76,13 @@ Cork, Ireland | May 2020 - Jan 2022
 * Evaluated how issues affected the business, regions or departments
 * Resolved and prevented issues from reoccurring.
 
-#### Fota Island  Hospitality Department | Front Of House                    
+### Fota Island  Hospitality Department | Front Of House                    
 Cork, Ireland |  September 2019 - October 2020
 
-#### Apple  Business Analytics Department | Business Analyst Intern            
+### Apple  Business Analytics Department | Business Analyst Intern            
 Cork, Ireland | January 2019 - September 2019
 
-#### Apple  AppleCare Support Department | Technical Support Advisor    
+### Apple  AppleCare Support Department | Technical Support Advisor    
 Cork, Ireland |  June 2018 – January 2019
 
 
