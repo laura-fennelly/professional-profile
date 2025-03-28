@@ -20,7 +20,9 @@ __________________
 
 #### DocuSign Digital Technology Services Department | End User Automation Engineer                    
 Dublin, Ireland | Feb 2022 - Present
+
 **Data Engineering & Analytics**
+
 * Designed and developed ETL data pipelines to integrate and process data from multiple vendor APIs.
 * Performed data wrangling: cleansing, transformation, and application of business logic to enhance data quality.
 * Conducted data validation, schema design, and integrity checks to ensure accuracy and consistency.
@@ -28,7 +30,9 @@ Dublin, Ireland | Feb 2022 - Present
 * Developed Tableau dashboards, providing leadership with actionable insights.
 * Led data-driven performance evaluations to optimise business processes and outcomes.
 * Presented analytical findings and strategic recommendations to leadership on user engagement, operational performance, conversational intelligence, and automation opportunities.
+
 **Business Intelligence & Strategic Insights***
+
 * Partnered with IT, business teams, and executives to define data requirements and translate business objectives into scalable technical solutions.
 * Collaborated with cross-functional teams to define key performance indicators (KPIs) and deliver data-driven decision support.
 * Developed business cases and data-backed proposals to drive process optimisation and efficiency.
@@ -36,7 +40,9 @@ Dublin, Ireland | Feb 2022 - Present
 * Delivered insights into chatbot performance, user engagement, and deflection rates, optimising conversational AI effectiveness.
 * Mapped dependencies for identity and access management (IAM), enhancing security and role-based access controls.
 * Communicated complex data-driven insights through clear, executive-level reports and presentations.
+  
 **Machine Learning & Predictive Analytics**
+
 * Applied statistical methods and predictive modeling techniques to identify trends and improve forecasting accuracy.
 * Designed, trained, tested, and deployed Natural Language Processing (NLP) models for knowledge extraction and pattern recognition.
 * Curated domain-specific training datasets to enhance model adaptability for company use cases.
@@ -46,23 +52,31 @@ Dublin, Ireland | Feb 2022 - Present
 
 #### Apple Business Analytics Department | Business Intelligence Analyst
 Cork, Ireland | May 2020 - Jan 2022
+
 **EMEIA Business Intelligence Analyst**
+
 * Deevelop dynamic, user friendly and interchangeable dashboards for multi-disciplinary teams to automate manual tasks and reporting, saving the business over 30 hours of manual work weekly.
 * Concurrently lead and developed on multiple analytic projects across different functions from Logistics, Reseller Operations, Product Readiness, Supply Planning, and Manufacturing. 
 * EMEIA representative for Quarterly Balance Scorecard, liaised with cross functional teams to supply performance commentary of KPI metrics.
+  
 **Business Analytics New Product Introduction lead**
+
 * Requirement gathering cross functionally across operations. Recognise data needs of each function and prioritising support for monthly product launches.
 * Establish and analysed plans to achieve milestones pre, during and post launch.
 * Conduct new product launch post-mortems. 
     * Investigate areas of concern, critical issues, and identify process gaps. 
     * Solve common challenges to optimise resources.
     * Provide feedback analyse to ensure continuous improvement.
+      
 **Project Manager of Business Analytics Retail Operations project track**
+
 * Provide weekly updates and host biweekly reviews for retail operations.
     * Connect and collaborate with developers and business on projects to ensure deadlines are met.
     * Managing the expectations of stakeholders, reviewing future projects on the list.
     * Analysing for any links or cross over of processes/data flows between existing, past and future projects.
+      
 **Operations System Support Business Analytics lead**
+
 * Hosting System Sustaining /Preventative Management Syncs.
 * Co-ordinate function/BPR leads to help with operation system issues.
     * Identify operation system issues.
