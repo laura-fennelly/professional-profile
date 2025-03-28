@@ -6,13 +6,13 @@ A Business Analytics professional with experience working within cross functiona
 ## EDUCATION
 _____________________
 
-Masters in Computing (Major in Artifical Intelligence
-Dublin City University
-2022 - 2024   First Class Honours  
+### <ins> Masters in Computing (Major in Artifical Intelligence</ins>
+### **Dublin City University**
+### 2022 - 2024   First Class Honours  
 
-Bachelor of Business (Honours) in Business Information Systems 
-Munster Technology University
-2016 - 2020   First Class Honours      
+### <ins> Bachelor of Business (Honours) in Business Information Systems </ins>
+### **Munster Technology University**
+### 2016 - 2020   First Class Honours      
  
 
 ## EXPERIENCE
