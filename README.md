@@ -7,19 +7,19 @@ A Business Analytics professional with experience working within cross functiona
 _____________________
 
 #### <ins> Masters in Computing (Major in Artifical Intelligence</ins>
-**Dublin City University**   |   2022 - 2024   First Class Honours  
+Dublin City University   |   2022 - 2024   |   First Class Honours  
 
 #### <ins> Bachelor of Business (Honours) in Business Information Systems </ins>
-**Munster Technology University**   |   2016 - 2020   First Class Honours      
+Munster Technology University   |   2016 - 2020   |   First Class Honours      
  
 
 ## EXPERIENCE
 __________________ 
 
-### DocuSign  |  End User Automation Engineer 
+#### DocuSign  |  End User Automation Engineer 
 Dublin, Ireland | Feb 2022 - Present
 
-#### <ins>Data Engineering & Analytics</ins>
+##### <ins>Data Engineering & Analytics</ins>
 * Designed and developed ETL data pipelines to integrate and process data from multiple vendor APIs.
 * Performed data wrangling: cleansing, transformation, and application of business logic to enhance data quality.
 * Conducted data validation, schema design, and integrity checks to ensure accuracy and consistency.
@@ -28,7 +28,7 @@ Dublin, Ireland | Feb 2022 - Present
 * Led data-driven performance evaluations to optimise business processes and outcomes.
 * Presented analytical findings and strategic recommendations to leadership on user engagement, operational performance, conversational intelligence, and automation opportunities.
  
-#### <ins>Business Intelligence & Strategic Insights</ins>
+##### <ins>Business Intelligence & Strategic Insights</ins>
 
 * Partnered with IT, business teams, and executives to define data requirements and translate business objectives into scalable technical solutions.
 * Collaborated with cross-functional teams to define key performance indicators (KPIs) and deliver data-driven decision support.
@@ -46,7 +46,7 @@ Dublin, Ireland | Feb 2022 - Present
 * Additional NLP modelling includes: custom SpaCy Named Entity Recognition (NER), Latent Dirichlet Allocation (LDA) for topic modeling, and RegEx for PII redaction.
 * Leveraged Python and key ML libraries, including NLTK, SciPy, Keras, PyTorch, TensorFlow, XGBoost, NumPy, Pandas, and Scikit-learn, to build scalable and efficient machine learning solutions.
 
-### Apple | Business Intelligence Analyst
+#### Apple | Business Intelligence Analyst
 Cork, Ireland | May 2020 - Jan 2022
 
 ##### <ins>EMEIA Business Intelligence Analyst</ins>
@@ -76,14 +76,14 @@ Cork, Ireland | May 2020 - Jan 2022
 * Evaluated how issues affected the business, regions or departments
 * Resolved and prevented issues from reoccurring.
 
-### Fota Island  Hospitality Department | Front Of House                    
-##### Cork, Ireland |  September 2019 - October 2020
+#### Fota Island  Hospitality Department | Front Of House                    
+Cork, Ireland |  September 2019 - October 2020
 
-### Apple  Business Analytics Department | Business Analyst Intern            
-##### Cork, Ireland | January 2019 - September 2019
+#### Apple  Business Analytics Department | Business Analyst Intern            
+Cork, Ireland | January 2019 - September 2019
 
-### Apple  AppleCare Support Department | Technical Support Advisor    
-##### Cork, Ireland |  June 2018 – January 2019
+#### Apple  AppleCare Support Department | Technical Support Advisor    
+Cork, Ireland |  June 2018 – January 2019
 
 
 ## EXPERIENCE
