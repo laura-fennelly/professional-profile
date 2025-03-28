@@ -19,7 +19,7 @@ _____________________
 __________________ 
 
 ### DocuSign  |  Digital Technology Services Department 
-Role: * * End User Automation Engineer                
+Role: ** _End User Automation Engineer_ **             
 #### Dublin, Ireland | Feb 2022 - Present
 
 #### <ins>Data Engineering & Analytics</ins>
