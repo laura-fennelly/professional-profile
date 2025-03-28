@@ -83,9 +83,9 @@ Cork, Ireland | January 2019 - September 2019
 Cork, Ireland |  June 2018 – January 2019
 
 
-## EXPERIENCE
+## PUBLICATION
 __________________ 
-Publication
+A Review of Multi-Modal Large Language and Vision Models
 https://arxiv.org/abs/2404.01322
 
 
