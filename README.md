@@ -3,7 +3,7 @@ ______________________________________
 
 A Business Analytics professional with experience working within cross functional teams across supply chain operations for a large multinational. Diverse skillset from working in multiple roles such as BA New Product Introduction lead, Operations System Support BA lead, EMEIA BA data analyst. Currently in search for new opportunities to expand both technical and business skillset.
 
-### EDUCATION
+## EDUCATION
 _____________________
 
 Masters in Computing (Major in Artifical Intelligence
@@ -15,13 +15,13 @@ Munster Technology University
 2016 - 2020   First Class Honours      
  
 
-### EXPERIENCE
+## EXPERIENCE
 __________________ 
 
-#### DocuSign Digital Technology Services Department | End User Automation Engineer                    
+### DocuSign Digital Technology Services Department | End User Automation Engineer                    
 Dublin, Ireland | Feb 2022 - Present
 
-**Data Engineering & Analytics**
+#### Data Engineering & Analytics
    * Designed and developed ETL data pipelines to integrate and process data from multiple vendor APIs.
    * Performed data wrangling: cleansing, transformation, and application of business logic to enhance data quality.
    * Conducted data validation, schema design, and integrity checks to ensure accuracy and consistency.
@@ -30,7 +30,7 @@ Dublin, Ireland | Feb 2022 - Present
    * Led data-driven performance evaluations to optimise business processes and outcomes.
    * Presented analytical findings and strategic recommendations to leadership on user engagement, operational performance, conversational intelligence, and automation opportunities.
 
-*  **Business Intelligence & Strategic Insights**
+#### Business Intelligence & Strategic Insights
    * Partnered with IT, business teams, and executives to define data requirements and translate business objectives into scalable technical solutions.
    * Collaborated with cross-functional teams to define key performance indicators (KPIs) and deliver data-driven decision support.
    * Developed business cases and data-backed proposals to drive process optimisation and efficiency.
@@ -39,7 +39,7 @@ Dublin, Ireland | Feb 2022 - Present
    * Mapped dependencies for identity and access management (IAM), enhancing security and role-based access controls.
    * Communicated complex data-driven insights through clear, executive-level reports and presentations.
      
-3. **Machine Learning & Predictive Analytics**
+#### Machine Learning & Predictive Analytics
 
 * Applied statistical methods and predictive modeling techniques to identify trends and improve forecasting accuracy.
 * Designed, trained, tested, and deployed Natural Language Processing (NLP) models for knowledge extraction and pattern recognition.
@@ -48,16 +48,16 @@ Dublin, Ireland | Feb 2022 - Present
 * Leveraged Python and key ML libraries, including NLTK, SciPy, Keras, PyTorch, TensorFlow, XGBoost, NumPy, Pandas, and Scikit-learn, to build scalable and efficient machine learning solutions.
 
 
-#### Apple Business Analytics Department | Business Intelligence Analyst
+### Apple Business Analytics Department | Business Intelligence Analyst
 Cork, Ireland | May 2020 - Jan 2022
 
-1. **EMEIA Business Intelligence Analyst**
+#### EMEIA Business Intelligence Analyst
 
 * Deevelop dynamic, user friendly and interchangeable dashboards for multi-disciplinary teams to automate manual tasks and reporting, saving the business over 30 hours of manual work weekly.
 * Concurrently lead and developed on multiple analytic projects across different functions from Logistics, Reseller Operations, Product Readiness, Supply Planning, and Manufacturing. 
 * EMEIA representative for Quarterly Balance Scorecard, liaised with cross functional teams to supply performance commentary of KPI metrics.
   
-2. **Business Analytics New Product Introduction lead**
+#### Business Analytics New Product Introduction lead
 
 * Requirement gathering cross functionally across operations. Recognise data needs of each function and prioritising support for monthly product launches.
 * Establish and analysed plans to achieve milestones pre, during and post launch.
@@ -66,14 +66,14 @@ Cork, Ireland | May 2020 - Jan 2022
     * Solve common challenges to optimise resources.
     * Provide feedback analyse to ensure continuous improvement.
       
-3. **Project Manager of Business Analytics Retail Operations project track**
+#### Project Manager of Business Analytics Retail Operations project track
 
 * Provide weekly updates and host biweekly reviews for retail operations.
     * Connect and collaborate with developers and business on projects to ensure deadlines are met.
     * Managing the expectations of stakeholders, reviewing future projects on the list.
     * Analysing for any links or cross over of processes/data flows between existing, past and future projects.
       
-4. **Operations System Support Business Analytics lead**
+#### Operations System Support Business Analytics lead
 
 * Hosting System Sustaining /Preventative Management Syncs.
 * Co-ordinate function/BPR leads to help with operation system issues.
@@ -82,33 +82,33 @@ Cork, Ireland | May 2020 - Jan 2022
     * Resolve and prevent issues from reoccurring.
 
 
-#### Fota Island  Hospitality Department | Front Of House                    
+### Fota Island  Hospitality Department | Front Of House                    
 Cork, Ireland |  September 2019 - October 2020
 * Part-time Waitress 
 
-#### Apple  Business Analytics Department | Business Analyst Intern            
+### Apple  Business Analytics Department | Business Analyst Intern            
 Cork, Ireland | January 2019 - September 2019
 * Troubleshooted data issues and bugs within tools and reports.
 * Created data visualisation dashboard on Tableau for automated reporting.
 
-#### Apple  AppleCare Support Department | Technical Support Advisor    
+### Apple  AppleCare Support Department | Technical Support Advisor    
 Cork, Ireland |  June 2018 – January 2019
 * Troubleshooting both technical & non-technical issues from home.
 
 
-### EXPERIENCE
+## EXPERIENCE
 __________________ 
 Publication
 https://arxiv.org/abs/2404.01322
 
 
-### PROJECTS
+## PROJECTS
 __________________ 
 
 
 
 
-### ACHIEVEMENTS
+## ACHIEVEMENTS
 ____________________
 
 Apple 2021:
