@@ -2,19 +2,11 @@ title: Laura Fennelly
 logo: /assets/img/Laura.png
 description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
-github:
-  zip_url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
-  another_url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 
 
 
-children:
-  title: "Quick-Start Guide"
-  url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
-  title: "Structure"
-  url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
-  title: "Installation"
-  url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
-  title: "Upgrading"
-  url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
+#children:
+  #title: "Quick-Start Guide"
+  #url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
