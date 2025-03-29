@@ -1,14 +1,18 @@
+theme: jekyll-resume-theme
 title: Laura Fennelly
-logo: /assets/img/Laura.png
-description: |
-  text below image  
+description: Software Developer | AI Enthusiast
 
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-  - 📧 [Email](mailto:your@email.com)  
-  - 📂 [Resume](https://yourwebsite.com/resume.pdf)  
+#title: Laura Fennelly
+#logo: /assets/img/Laura.png
+#description: Software Developer | AI Enthusiast
+  #text below image  
+
+ # - 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+ # - 📧 [Email](mailto:your@email.com)  
+#  - 📂 [Resume](https://yourwebsite.com/resume.pdf)  
 #show_downloads: true
-theme: jekyll-theme-vonge
-additional_info: "📍 Location: New York, USA"
+#theme: jekyll-theme-vonge
+#additional_info: "📍 Location: New York, USA"
 
 
 
