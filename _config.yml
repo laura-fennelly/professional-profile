@@ -1,6 +1,11 @@
 title: Laura Fennelly
 logo: /assets/img/Laura.png
-description: text below image
+description: |
+  text below image  
+
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+  - 📧 [Email](mailto:your@email.com)  
+  - 📂 [Resume](https://yourwebsite.com/resume.pdf)  
 #show_downloads: true
 theme: jekyll-theme-minimal
 additional_info: "📍 Location: New York, USA"
