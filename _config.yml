@@ -3,10 +3,11 @@ logo: /assets/img/Laura.png
 description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+additional_info: "📍 Location: New York, USA"
+
+
+
 #theme: minimal-mistakes-jekyll
-
-
-
 #children:
   #title: "Quick-Start Guide"
   #url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
