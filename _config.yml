@@ -8,13 +8,13 @@ github:
   another_url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
 
 
-title: Getting Started
-  children:
-      title: "Quick-Start Guide"
-      url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
-      title: "Structure"
-      url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
-      title: "Installation"
-      url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
-      title: "Upgrading"
-      url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
+
+children:
+  title: "Quick-Start Guide"
+  url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
+  title: "Structure"
+  url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
+  title: "Installation"
+  url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
+  title: "Upgrading"
+  url: https://drive.google.com/drive/folders/1lPCjBbSbo1bZl0MKw0PZHmWTV7peQFtB
